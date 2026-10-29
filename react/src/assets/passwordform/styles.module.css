@@ -1,0 +1,15 @@
+.rules {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  font-size: 1.5rem;
+}
+
+.ok {
+  color: #22c55e;
+}
+
+.pending {
+  color: #ef4444;
+}
