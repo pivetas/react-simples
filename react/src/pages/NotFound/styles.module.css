@@ -1,0 +1,18 @@
+.notFound {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.2rem;
+  padding: 4.8rem 0;
+}
+
+.code {
+  font-size: 9.6rem;
+  line-height: 1;
+  color: #991b1b;
+}
+
+.text {
+  font-size: 2.4rem;
+  color: #cdd3e1;
+}
